@@ -110,7 +110,7 @@ div .conversation{
     overflow-y: hidden;
     overflow-x: hidden;
    overflow-y: scroll;
-   background-image: url(../assets/wtsapp.webp);
+   background-image: url(./wtsapp.webp);
     
 }
 .type{
